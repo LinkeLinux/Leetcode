@@ -7,5 +7,4 @@ Leedcode题解
 | 序号 | 题目&题解  
 | ---- | ------------------------------------------------------------	
 | 1    |[二叉树的层序遍历](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-二叉树的层次遍历.md) 
-| 2    |[链表](https://github.com/LinkeLinux/Leetcode/Leetcode-题解-链表.md)
 
