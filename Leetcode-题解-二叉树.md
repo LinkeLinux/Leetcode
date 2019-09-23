@@ -21,7 +21,7 @@
 ]
 ```
 ### 代码实现
-```
+```c
 #define QMAX 1000// 定义太小有些测试用例过不去
 typedef struct Queue{
     
