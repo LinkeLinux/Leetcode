@@ -12,5 +12,10 @@ Leedcode题解
 | 4    |[088.合并两个有序数组](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-合并两个有序数组.md)
 | 5    |[141.环形链表](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-环形链表.md)
 | 6    |[524.通过删除字母匹配到字典里最长单词](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-通过删除字母匹配到字典里最长单词.md)
+| 7    |[167.两数之和II-输入有序数组](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-两数之和II-输入有序数组.md)
+| 8    |[633.平方数之和](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-平方数之和.md)
+| 9    |[345.反转字符串中的元音字母](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-反转字符串中的元音字母.md)
+| 10   |[680.验证回文字符串II](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-验证回文字符串II.md)
+
 
 
