@@ -16,6 +16,8 @@ Leedcode题解
 | 8    |[633.平方数之和](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-平方数之和.md)
 | 9    |[345.反转字符串中的元音字母](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-反转字符串中的元音字母.md)
 | 10   |[680.验证回文字符串II](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-验证回文字符串II.md)
+| 11   |[215.数组中的第K个最大元素(快排)](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-数组中的第K个最大元素.md)
+| 12   |[215.数组中的第K个最大元素(堆实现方法)](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-数组中的第K个最大元素(小顶堆).md)
 
 
 
