@@ -19,7 +19,7 @@ Leedcode题解
 | 11   |[215.数组中的第K个最大元素(快排)](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-数组中的第K个最大元素.md)
 | 12   |[215.数组中的第K个最大元素(堆实现方法)](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-数组中的第K个最大元素(小顶堆).md)
 | 13   |[162.寻找峰值](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-寻找峰值.md)
-| 14   |[958.二叉树的完全性检验](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-二叉树的完全性检验.md)
+| 14   |[958.二叉树的完全性检验](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-二叉树的完全性校验.md)
 
 
 
