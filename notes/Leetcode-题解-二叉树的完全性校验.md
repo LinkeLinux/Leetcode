@@ -10,14 +10,14 @@
  
 
 示例 1：
-![avatar](./complete-binary-tree-1.png)
+![blockchain](./complete-binary-tree-1.png)
 <img src="./complete-binary-tree-1.png" style="zoom:70%" />
 
 输入：[1,2,3,4,5,6]
 输出：true
 解释：最后一层前的每一层都是满的（即，结点值为 {1} 和 {2,3} 的两层），且最后一层中的所有结点（{4,5,6}）都尽可能地向左。
 示例 2：
-![avatar](./complete-binary-tree-2.png)
+![blockchain](./complete-binary-tree-2.png)
 <img src="./complete-binary-tree-2.png" style="zoom:70%" />
 
 输入：[1,2,3,4,5,null,7]
