@@ -3,7 +3,7 @@ Leedcode题解
 [![Travis](https://img.shields.io/badge/language-C-red.svg)](https://developer.apple.com/.md)
 [![Travis](https://img.shields.io/badge/language-Go-yellow.svg)](https://developer.apple.com/.md)
 
-## 分类一---
+## 分类一----贪心思想
 | 序号 | 题目&题解  
 | ---- | ------------------------------------------------------------	
 
@@ -43,7 +43,7 @@ Leedcode题解
 | 1    |[25.K个一组翻转链表](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-K个一组翻转链表.md)
 | 2    |[141.环形链表](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-环形链表.md)
 
-##分类七----排序
+## 分类七----排序
 | 序号 | 题目&题解  
 | ---- | ------------------------------------------------------------
 | 1    |[215.数组中的第K个最大元素(堆实现方法)](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-数组中的第K个最大元素(小顶堆).md)
