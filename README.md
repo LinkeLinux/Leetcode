@@ -20,6 +20,8 @@ Leedcode题解
 | 12   |[215.数组中的第K个最大元素(堆实现方法)](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-数组中的第K个最大元素(小顶堆).md)
 | 13   |[162.寻找峰值](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-寻找峰值.md)
 | 14   |[958.二叉树的完全性检验](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-二叉树的完全性校验.md)
+| 15   |[25.K个一组翻转链表](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-K个一组翻转链表.md)
+| 16   |[34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-在排序数组中查找元素的第一个和最后一个位置.md)
 
 
 
