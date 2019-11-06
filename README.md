@@ -31,12 +31,15 @@ Leedcode题解
 | 2    |[524.通过删除字母匹配到字典里最长单词](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-通过删除字母匹配到字典里最长单词.md)
 | 3    |[165.比较版本号](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-比较版本号.md)
 | 4    |[345.反转字符串中的元音字母](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-反转字符串中的元音字母.md)
+| 5    |[387.字符串中的第一个唯一字符](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-字符串中的第一个唯一字符.md)
 
 ## 分类五----数组
 | 序号 | 题目&题解  
 | ---- | ------------------------------------------------------------
 | 1    |[088.合并两个有序数组](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-合并两个有序数组.md)
 | 2    |[215.数组中的第K个最大元素(快排)](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-数组中的第K个最大元素.md)
+| 3    |[414.第三大的数](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-第三大的数.md)
+
 
 ## 分类六----链表
 | 序号 | 题目&题解  
