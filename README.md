@@ -16,6 +16,7 @@ Leedcode题解
 | 4    |[34.在排序数组中查找元素的第一个和最后一个位置](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-在排序数组中查找元素的第一个和最后一个位置.md)
 | 5    |[633.平方数之和](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-平方数之和.md)
 | 6    |[744.寻找比目标字母大的最小字母](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-寻找比目标字母大的最小字母.md)
+| 7    |[153.寻找旋转排序数组中的最小值](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-寻找旋转排序数组中的最小值.md)
 
 ## 分类三----二叉树
 | 序号 | 题目&题解  
@@ -46,6 +47,9 @@ Leedcode题解
 | ---- | ------------------------------------------------------------
 | 1    |[25.K个一组翻转链表](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-K个一组翻转链表.md)
 | 2    |[141.环形链表](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-环形链表.md)
+| 3    |[141.反转链表](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-反转链表.md)
+| 4    |[21.合并两个有序链表](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-合并两个有序链表.md)
+| 5    |[83.删除排序链表中的重复元素](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-删除排序链表中的重复元素.md)
 
 ## 分类七----排序
 | 序号 | 题目&题解  
