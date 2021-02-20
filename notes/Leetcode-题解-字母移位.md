@@ -31,38 +31,21 @@
 ### 代码实现
 ```c
 
-int* searchRange(int* nums, int numsSize, int target, int* returnSize){
-    
-    int *res =(int *)malloc(2*sizeof(int));
-    res[0]=res[1]=-1;
-    *returnSize =2;
-    if (nums ==NULL || numsSize ==0){
-        return res;
+char * shiftingLetters(char * S, int* shifts, int shiftsSize){
+    char *res;
+    res = (char *)malloc(shiftsSize+1);
+    res[shiftsSize] =0;
+    int i;
+    long long sum =0;
+    for(i=0;i<shiftsSize;i++)
+    {
+        sum += shifts[i];
     }
-    int l =0;
-    int mid;
-    int r =numsSize-1;
-    while(l<r){
-        mid =l + ((r-l)>>1);
-        if(nums[mid]>=target) r =mid;
-        else 
-            l=mid+1;
+    for(i =0;i<shiftsSize;i++)
+    {
+        res[i] =  'a' + (S[i] - 'a' +sum)%26;
+        sum -=shifts[i];
     }
-    if(target !=nums[l]) 
-        return res;
-    else 
-        res[0]=l;
-    r=numsSize;//防止可能越界
-    while(l <r){
-        mid =l + (r-l)/2;
-        if(nums[mid]<=target) 
-            l =mid+1;
-        else 
-            r =mid ;
-    }
-    
-        res[1]=l-1;
     return res;
-        
 }
 ```
