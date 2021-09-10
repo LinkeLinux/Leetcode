@@ -17,6 +17,7 @@ Leedcode题解
 | 5    |[633.平方数之和](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-平方数之和.md)
 | 6    |[744.寻找比目标字母大的最小字母](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-寻找比目标字母大的最小字母.md)
 | 7    |[153.寻找旋转排序数组中的最小值](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-寻找旋转排序数组中的最小值.md)
+| 8    |[1011.在D天内送达包裹的能力](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-在D天内送达包裹的能力.md)
 
 ## 分类三----二叉树
 | 序号 | 题目&题解  
