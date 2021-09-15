@@ -63,6 +63,8 @@ Leedcode题解
 | 序号 | 题目&题解  
 | ---- | ------------------------------------------------------------
 | 1    |[76.最小覆盖子串](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-最小覆盖子串.md)
+| 2    |[567.字符串的排列](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-字符串的排列.md)
+| 3    |[438.找到字符串中所有字母异位词](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-找到字符串中所有字母异位词.md)
 
 
 
