@@ -66,6 +66,11 @@ Leedcode题解
 | 2    |[567.字符串的排列](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-字符串的排列.md)
 | 3    |[438.找到字符串中所有字母异位词](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-找到字符串中所有字母异位词.md)
 
+## 分类九----双指针
+| 序号 | 题目&题解  
+| ---- | ------------------------------------------------------------
+| 1    |[42.接雨水](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-接雨水.md)
+
 
 
 
