@@ -59,6 +59,12 @@ Leedcode题解
 | 1    |[215.数组中的第K个最大元素(堆实现方法)](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-数组中的第K个最大元素(小顶堆).md)
 
 
+## 分类八----滑动窗口
+| 序号 | 题目&题解  
+| ---- | ------------------------------------------------------------
+| 1    |[76.最小覆盖子串](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-最小覆盖子串.md)
+
+
 
 
 
