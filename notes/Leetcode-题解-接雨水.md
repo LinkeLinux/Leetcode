@@ -15,7 +15,7 @@
 
 示例 1：
 
-![](./rainwatertrap.png)
+![avatar](./rainwatertrap.png)
 <img src="./rainwatertrap.png" style="zoom:70%" />
 
 输入：height = [0,1,0,2,1,0,1,3,2,1,2,1]
