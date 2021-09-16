@@ -25,6 +25,7 @@ Leedcode题解
 | 1    |[102.二叉树的层序遍历](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-二叉树的层次遍历.md) 
 | 2    |[257.二叉树的所有路径](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-二叉树的所有路径.md)
 | 3    |[958.二叉树的完全性检验 ](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-二叉树的完全性校验.md)
+| 4    |[剑指 Offer II 044.二叉树每层的最大值 ](https://github.com/LinkeLinux/Leetcode/blob/master/notes/Leetcode-题解-二叉树每层最大值.md)
 
 ## 分类四----字符串
 | 序号 | 题目&题解  
